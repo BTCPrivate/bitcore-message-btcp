@@ -2,7 +2,7 @@
   "name": "bitcore-message-btcp",
   "main": "./bitcore-message-btcp.min.js",
   "version": "1.0.3-btcp",
-  "homepage": "https://github.com/interbiznw-btcpcontrib/bitcore-message-btcp",
+  "homepage": "https://github.com/BTCPrivate/bitcore-message-btcp",
   "authors": [
     "The btcp Team",
     "BitPay"
